@@ -5,6 +5,7 @@ This repository contains the implementation of **RAND-SLA**, a novel algorithm d
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
+- [Results](#Results)
 - [Contributors](#contributors)
 
 ---
@@ -35,14 +36,14 @@ Bayesian Networks are graphical models that represent probabilistic relationship
 ## Results
 The RAND-SLA algorithm outperforms traditional iterative skeleton learning approaches in:
 
--Execution Time: Reduced computational overhead.
--Scalability: Handles large datasets with ease.
--Accuracy: Maintains competitive performance in identifying conditional dependencies.
+- Execution Time: Reduced computational overhead.
+- Scalability: Handles large datasets with ease.
+- Accuracy: Maintains competitive performance in identifying conditional dependencies.
 
 ## Contributors
--Ayush Patel
--Kunj Kanzariya
--Preet Patel
--Raj Dave
--Rutul Patel
+- Ayush Patel
+- Kunj Kanzariya
+- Preet Patel
+- Raj Dave
+- Rutul Patel
 This project was developed as part of the course CSE516: Probabilistic Graphical Models under the guidance of Professor Dhaval Patel.
