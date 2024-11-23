@@ -46,4 +46,5 @@ The RAND-SLA algorithm outperforms traditional iterative skeleton learning appro
 - Preet Patel
 - Raj Dave
 - Rutul Patel
+  
 This project was developed as part of the course CSE516: Probabilistic Graphical Models under the guidance of Professor Dhaval Patel.
